@@ -1,0 +1,6 @@
+lerobot[pusht]>=0.4.0
+matplotlib>=3.9.0
+imageio>=2.35.0
+imageio-ffmpeg>=0.5.1
+pillow>=10.0.0
+safetensors>=0.4.0

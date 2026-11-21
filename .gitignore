@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/videos/*.mp4
+.DS_Store
+Thumbs.db

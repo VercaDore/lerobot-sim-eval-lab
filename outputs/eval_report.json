@@ -1,0 +1,216 @@
+{
+  "summary": {
+    "policy_repo_id": "lerobot/diffusion_pusht",
+    "env_id": "gym_pusht/PushT-v0",
+    "device": "cuda",
+    "gpu_name": "NVIDIA GeForce RTX 4070 Laptop GPU",
+    "n_episodes": 20,
+    "success_count": 18,
+    "success_rate_pct": 90.0,
+    "avg_max_reward": 0.9674,
+    "avg_steps": 219.25,
+    "avg_infer_ms": 197.05
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "seed": 1000,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 130.3629,
+      "steps": 232,
+      "elapsed_sec": 48.45,
+      "avg_infer_ms": 200.7
+    },
+    {
+      "episode": 2,
+      "seed": 1001,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 96.2749,
+      "steps": 271,
+      "elapsed_sec": 56.13,
+      "avg_infer_ms": 199.24
+    },
+    {
+      "episode": 3,
+      "seed": 1002,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 125.9232,
+      "steps": 186,
+      "elapsed_sec": 40.65,
+      "avg_infer_ms": 210.58
+    },
+    {
+      "episode": 4,
+      "seed": 1003,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 238.8058,
+      "steps": 298,
+      "elapsed_sec": 63.91,
+      "avg_infer_ms": 206.34
+    },
+    {
+      "episode": 5,
+      "seed": 1004,
+      "success": true,
+      "max_reward": 0.9586,
+      "sum_reward": 197.22,
+      "steps": 300,
+      "elapsed_sec": 63.23,
+      "avg_infer_ms": 202.69
+    },
+    {
+      "episode": 6,
+      "seed": 1005,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 36.4318,
+      "steps": 205,
+      "elapsed_sec": 44.61,
+      "avg_infer_ms": 209.6
+    },
+    {
+      "episode": 7,
+      "seed": 1006,
+      "success": true,
+      "max_reward": 0.9553,
+      "sum_reward": 159.1567,
+      "steps": 300,
+      "elapsed_sec": 62.9,
+      "avg_infer_ms": 201.67
+    },
+    {
+      "episode": 8,
+      "seed": 1007,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 47.5882,
+      "steps": 105,
+      "elapsed_sec": 21.78,
+      "avg_infer_ms": 199.84
+    },
+    {
+      "episode": 9,
+      "seed": 1008,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 62.6715,
+      "steps": 198,
+      "elapsed_sec": 37.97,
+      "avg_infer_ms": 184.17
+    },
+    {
+      "episode": 10,
+      "seed": 1009,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 44.0354,
+      "steps": 136,
+      "elapsed_sec": 26.14,
+      "avg_infer_ms": 184.45
+    },
+    {
+      "episode": 11,
+      "seed": 1010,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 102.5056,
+      "steps": 172,
+      "elapsed_sec": 33.75,
+      "avg_infer_ms": 188.55
+    },
+    {
+      "episode": 12,
+      "seed": 1011,
+      "success": false,
+      "max_reward": 0.9482,
+      "sum_reward": 33.7973,
+      "steps": 300,
+      "elapsed_sec": 58.0,
+      "avg_infer_ms": 185.51
+    },
+    {
+      "episode": 13,
+      "seed": 1012,
+      "success": true,
+      "max_reward": 0.9652,
+      "sum_reward": 182.9724,
+      "steps": 300,
+      "elapsed_sec": 59.38,
+      "avg_infer_ms": 190.05
+    },
+    {
+      "episode": 14,
+      "seed": 1013,
+      "success": true,
+      "max_reward": 0.9923,
+      "sum_reward": 182.4489,
+      "steps": 300,
+      "elapsed_sec": 58.82,
+      "avg_infer_ms": 188.18
+    },
+    {
+      "episode": 15,
+      "seed": 1014,
+      "success": false,
+      "max_reward": 0.5531,
+      "sum_reward": 143.3838,
+      "steps": 300,
+      "elapsed_sec": 62.19,
+      "avg_infer_ms": 199.17
+    },
+    {
+      "episode": 16,
+      "seed": 1015,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 39.0687,
+      "steps": 72,
+      "elapsed_sec": 14.47,
+      "avg_infer_ms": 192.99
+    },
+    {
+      "episode": 17,
+      "seed": 1016,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 55.9129,
+      "steps": 123,
+      "elapsed_sec": 25.88,
+      "avg_infer_ms": 202.46
+    },
+    {
+      "episode": 18,
+      "seed": 1017,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 36.3845,
+      "steps": 113,
+      "elapsed_sec": 23.48,
+      "avg_infer_ms": 199.77
+    },
+    {
+      "episode": 19,
+      "seed": 1018,
+      "success": true,
+      "max_reward": 1.0,
+      "sum_reward": 83.6656,
+      "steps": 174,
+      "elapsed_sec": 34.89,
+      "avg_infer_ms": 192.68
+    },
+    {
+      "episode": 20,
+      "seed": 1019,
+      "success": true,
+      "max_reward": 0.9743,
+      "sum_reward": 158.2416,
+      "steps": 300,
+      "elapsed_sec": 63.15,
+      "avg_infer_ms": 202.44
+    }
+  ]
+}
